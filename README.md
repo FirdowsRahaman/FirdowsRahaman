@@ -1,6 +1,6 @@
 # Hi, I'm Firdows! 👋
 
-Welcome to my GitHub profile! I am a passionate engineer with a profound focus on AI, seamlessly blending my expertise in machine learning, software development, and research to create innovative solutions that tackle real-world challenges and drive meaningful transformation.
+Welcome to my GitHub profile! I am a passionate engineer with a profound focus on AI, seamlessly blending my expertise in machine learning, software development, and ML research to create innovative solutions that tackle real-world challenges and drive meaningful transformation.
 
 ---
 

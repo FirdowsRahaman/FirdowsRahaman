@@ -1,6 +1,6 @@
 # Hi, I'm Firdows! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer**, **AI Researcher**, and **Software Engineer** with a keen interest in solving real-world problems through cutting-edge technology.
+Welcome to my GitHub profile! I am a passionate engineer with a profound focus on AI, seamlessly blending my expertise in machine learning, software development, and research to create innovative solutions that tackle real-world challenges and drive meaningful transformation.
 
 ---
 
@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer**, **
 ### MLOps & Cloud Technologies:
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Containerization**: Docker, Kubernetes (GKE)
-- **CI/CD for ML Pipelines**: GitHub Actions, Jenkins
+- **CI/CD for ML Pipelines**: GitHub Actions,
 - **Deployment**: TensorFlow Serving, FastAPI, Streamlit
 
 ### Software Engineering:
-- **Programming Languages**: Python, JavaScript, Bash
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **APIs**: REST, GraphQL
+- **Programming Languages**: Python, Bash
+- **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **APIs**: REST
 - **Version Control**: Git, GitHub
 
 ---

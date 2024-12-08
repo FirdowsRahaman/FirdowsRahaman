@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I am a passionate engineer with a profound focus o
 ## 🌐 How to Reach Me
 
 - 📧 Email: 
-- 💼 LinkedIn: [linkedin.com/in/firdowsrahaman](https://linkedin.com/in/firdows)
+- 💼 LinkedIn: [linkedin.com/in/firdowsrahaman](https://www.linkedin.com/in/firdowsrahaman/)
 - 🐦 Twitter: [@FirdowsRahaman](https://twitter.com/FirdowsRahaman)
 
 ---

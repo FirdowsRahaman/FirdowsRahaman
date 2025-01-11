@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I am a passionate engineer with a profound focus o
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true) 
 
 ---
 

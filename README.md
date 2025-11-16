@@ -1,85 +1,107 @@
-# Hi, I'm Firdows! 👋  
+# 👋 Hi, I'm Firdows!
 
-Welcome to my GitHub profile! I am a passionate engineer with a profound focus on AI, seamlessly blending my expertise in machine learning, software development, and ML research to create innovative solutions that tackle real-world challenges and drive meaningful transformation.  
+I build at the intersection of **AI, software engineering, and cloud infrastructure**, creating practical, high-impact systems powered by LLMs, agentic workflows, and modern ML. My work spans **computer vision, NLP, multimodal reasoning, and neuroimaging**, with a strong focus on reliability, scalability, and real-world applicability.
+
+I enjoy architecting robust ML platforms on **AWS, GCP, and Bedrock**, designing systems that are cloud-native, efficient, and production-ready. Much of my work combines **RAG**, **MCP-driven agents**, **ADK-based tool use**, and **end-to-end MLOps** to support applications in healthcare, cybersecurity, and enterprise automation.
+
+I’m especially interested in **clinical and healthcare AI**—including MRI analytics, CXR pipelines, and IVF-related deep learning—as well as the engineering challenges behind **autonomous agents, orchestration, and dependable large-scale AI systems**.
 
 ---
 
 ## 🌟 About Me  
 
-- 🎓 **Background**: With a strong foundation in machine learning and artificial intelligence, I continuously explore innovative solutions in AI and cloud technologies.  
-- 🛠️ **Current Focus**:  
-  - Learning and implementing **MLOps** best practices to streamline and automate machine learning workflows.  
-  - Researching advancements in **Artificial Intelligence** and **Deep Learning** to stay at the forefront of the industry.  
-  - Building **cloud-native applications** to create scalable and robust systems.  
-- 🤝 **Open to Collaborations**: I enjoy working on projects that push the boundaries of AI, ML, and cloud technologies. Feel free to connect if you have an exciting project in mind!  
+- 🧠 **AI/ML Engineer** working across Computer Vision, NLP, multimodal modeling, and LLM systems  
+- 🤖 **AI Agent Architect** – MCP-driven multi-agent planners, ADK tool-use workflows  
+- ☁️ **Cloud & MLOps Practitioner** – AWS/GCP, Bedrock, Vertex AI, SageMaker, Kubernetes  
+- 🧬 **Healthcare & Clinical AI** – MRIQC + FastSurfer, radiology pipelines, IVF models  
+- 🔍 **Solution Designer** – scalable, cost-efficient, and fault-tolerant AI/ML architectures  
+- 🚀 Focused on building **reliable, autonomous, and production-grade AI ecosystems**  
 
 ---
 
-## 💻 My Areas of Expertise  
+## 🛠️ Core Expertise
 
-### Machine Learning & AI:  
-- **Supervised & Unsupervised Learning**  
-- **Natural Language Processing (NLP)**  
-- **Computer Vision**  
-- **Reinforcement Learning**  
+### **AI Agents & Orchestration**
+- Agentic AI • Multi-Agent Systems • Tool-Use Agents  
+- ADK • MCP • ReAct • RAG + Agents  
+- Workflow planning • Tool routing • RBAC-secured gateways  
 
-### MLOps & Cloud Technologies:  
-- **Cloud Platforms**: AWS, GCP, Azure  
-- **Containerization**: Docker, Kubernetes (GKE)  
-- **CI/CD for ML Pipelines**: GitHub Actions  
-- **Deployment**: TensorFlow Serving, FastAPI, Streamlit  
+### **Machine Learning & Deep Learning**
+- Generative AI • LLMs (Llama, Gemma, GPT, Claude)  
+- Transformers • NLP • YOLO • U-Net • DenseNet • ResNet  
+- MRI Processing • Radiomics • Medical Imaging Pipelines  
 
-### Software Engineering:  
-- **Programming Languages**: Python, Bash  
-- **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn  
-- **APIs**: REST  
-- **Version Control**: Git, GitHub  
+### **Cloud, Infrastructure & MLOps**
+- **AWS:** Lambda • EC2 • ECS • Bedrock • SageMaker • S3  
+- **GCP:** Vertex AI • Cloud Run • Cloud Build • GCS  
+- Docker • Kubernetes • CI/CD (GitHub Actions, CodePipeline)  
+- Model Registry • Automated Pipelines • Scalable Inference  
 
----
-
-## 🚀 Current Projects  
-
-1. **MLOps Pipeline**:  
-   - Automating the end-to-end lifecycle of machine learning models.  
-   - Deploying scalable solutions using cloud platforms.  
-
-2. **AI Research**:  
-   - Exploring generative AI models for innovative applications.  
-   - Advancing research in computer vision and NLP.  
-
-3. **AI Agents**:  
-   - Designing and building intelligent agents to automate complex tasks.  
-   - Developing systems for dynamic decision-making using reinforcement learning and LLMs.  
-
-4. **Recommendation System**:  
-   - Creating personalized recommendation engines for diverse applications.  
-   - Implementing hybrid systems that combine collaborative filtering, content-based filtering, and deep learning.  
-
-5. **Cloud-Native Applications**:  
-   - Designing robust, serverless architectures for ML-driven systems.  
+### **Software Engineering**
+- Python • Flask • FastAPI  
+- PyTorch • TensorFlow • LangChain  
+- REST APIs • Microservices • Feature Engineering  
+- Containerization • Data Pipelines  
 
 ---
 
-## 📚 Learning Goals  
+## 🩻 Key Projects
 
-- **Advanced MLOps Practices**: Building more resilient and automated ML workflows.  
-- **Distributed Systems**: Leveraging tools like Kubernetes for parallel and distributed training.  
-- **Generative AI**: Delving deeper into large language models and their applications.  
+### **1. Unosecur – MCP RBAC Gateway for AI Agents**
+- Secure gateway enforcing RBAC and policy-driven access  
+- Authentication, session management, and compliance auditing  
+- Least-privilege access for AI agents interacting with MCP servers  
+
+### **2. Cloud-Based MRIQC + FastSurfer Neuroimaging Pipeline**
+- Cloud-native MRI processing using AWS Batch + GPU  
+- Achieved **60% faster** FastSurfer inference with reproducible workflows  
+- Automated volumetrics for Alzheimer’s & dementia studies  
+- Modular GPU/CPU orchestration and CI/CD pipelines  
+
+### **3. Agentic Cybersecurity Copilot (Gemini + RAG)**
+- Multi-agent system for IAM anomaly detection & threat analysis  
+- Automated compliance reporting with privacy-preserving reasoning  
+- Domain-secure RAG + policy-aligned agent workflows  
+
+### **4. IVF Embryo Gardner Scoring System**
+- Multi-head DenseNet for structured embryo scoring (ICM, TE, expansion)  
+- Reduced subjectivity & improved clinical interpretability  
+
+### **5. Lung Opacity Segmentation on CXR**
+- Attention-guided U-Net + ResNet101  
+- Interpretable segmentation masks for pneumonia detection  
+
+### **6. Chest X-Ray Disease Classifier**
+- Multi-label CNN for detecting 5 thoracic conditions  
+- Strong performance via transfer learning & augmentation  
+
+### **7. Industrial Intrusion Detection (CV-based)**
+- Real-time video surveillance using Flask + MySQL  
+- Automated alerting system for industrial safety  
 
 ---
 
-## 🌐 How to Reach Me  
+## 🎖️ Achievements
+- 🏆 **Top 2% (Rank 16)** — Kaggle Brain Tumor Radiogenomic Classification  
+- 📄 **IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*  
 
-- 📧 **Email**:  
-- 💼 **LinkedIn**: [linkedin.com/in/firdowsrahaman](https://www.linkedin.com/in/firdowsrahaman/)  
-- 🐦 **Twitter**: [@FirdowsRahaman](https://twitter.com/FirdowsRahaman)  
+---
+
+## 📜 Certifications
+- AWS — Generative AI with LLMs  
+- GCP — End-to-End Machine Learning with TensorFlow  
+
+---
+
+## 📬 Contact
+- **LinkedIn:** https://linkedin.com/in/firdowsrahaman  
+- **Twitter:** https://twitter.com/FirdowsRahaman  
 
 ---
 
 ## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
-Let's build something amazing together! 🌍💡  
+Let’s build something meaningful and impactful. 🚀

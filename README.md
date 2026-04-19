@@ -1,89 +1,69 @@
-# 👋 Hi, I'm Firdows!
+# 👋 Hi, I'm Firdows
 
-I build at the intersection of **AI, software engineering, and cloud infrastructure**, creating practical, high-impact systems powered by LLMs, agentic workflows, and modern ML. My work spans **computer vision, NLP, multimodal reasoning, and neuroimaging**, with a strong focus on reliability, scalability, and real-world applicability.
+AI/ML Tech Lead building **production-grade GenAI and agentic systems** across cloud platforms.
 
-I enjoy architecting robust ML platforms on **AWS, GCP, and Bedrock**, designing systems that are cloud-native, efficient, and production-ready. Much of my work combines **RAG**, **MCP-driven agents**, **ADK-based tool use**, and **end-to-end MLOps** to support applications in healthcare, cybersecurity, and enterprise automation.
+I work at the intersection of **AI, distributed systems, and cloud architecture**, designing scalable solutions powered by **LLMs, RAG pipelines, and multi-agent workflows**. My focus is on building **reliable, governed, and enterprise-ready AI systems** that deliver real-world impact.
 
-I’m especially interested in **clinical and healthcare AI**—including MRI analytics, CXR pipelines, and IVF-related deep learning—as well as the engineering challenges behind **autonomous agents, orchestration, and dependable large-scale AI systems**.
+My experience spans **computer vision, NLP, multimodal AI, and healthcare systems**, with a strong emphasis on **production deployment, system design, and cost-efficient scalability**.
 
 ---
 
-## 🌟 About Me  
+## 🌟 What I Do
 
-- 🧠 **AI/ML Engineer** working across Computer Vision, NLP, multimodal modeling, and LLM systems  
-- 🤖 **AI Agent Architect** – MCP-driven multi-agent planners, ADK tool-use workflows  
-- ☁️ **Cloud & MLOps Practitioner** – AWS/GCP, Bedrock, Vertex AI, SageMaker, Kubernetes  
-- 🧬 **Healthcare & Clinical AI** – MRIQC + FastSurfer, radiology pipelines, IVF models  
-- 🔍 **Solution Designer** – scalable, cost-efficient, and fault-tolerant AI/ML architectures  
-- 🚀 Focused on building **reliable, autonomous, and production-grade AI ecosystems**  
+- 🧠 **AI/ML Engineering:** LLMs, RAG, multimodal systems, production ML  
+- 🤖 **Agentic AI Systems:** MCP-based multi-agent orchestration, ADK tool-use workflows  
+- ☁️ **Cloud & Architecture:** AWS, GCP, Bedrock, Vertex AI, scalable AI platforms  
+- 🧬 **Healthcare AI:** MRI pipelines, radiology systems, clinical ML deployment  
+- 🔐 **AI Governance:** RBAC, policy-driven control planes, observable agent execution  
 
 ---
 
 ## 🛠️ Core Expertise
 
-### **AI Agents & Orchestration**
-- Agentic AI • Multi-Agent Systems • Tool-Use Agents  
-- ADK • MCP • ReAct • RAG + Agents  
-- Workflow planning • Tool routing • RBAC-secured gateways  
+### **Agentic AI & Orchestration**
+- Agentic AI • Multi-Agent Systems • MCP • ADK • ReAct • Tool-Use Agents  
+- RAG + Agents • Workflow Planning • Tool Routing • Secure Agent Gateways  
 
 ### **Machine Learning & Deep Learning**
 - Generative AI • LLMs (Llama, Gemma, GPT, Claude)  
-- Transformers • NLP • YOLO • U-Net • DenseNet • ResNet  
-- MRI Processing • Radiomics • Medical Imaging Pipelines  
+- Transformers • NLP • Computer Vision (YOLO, U-Net, ResNet, DenseNet)  
+- Medical Imaging • Radiomics • Multimodal Systems  
 
-### **Cloud, Infrastructure & MLOps**
-- **AWS:** Lambda • EC2 • ECS • Bedrock • SageMaker • S3  
-- **GCP:** Vertex AI • Cloud Run • Cloud Build • GCS  
-- Docker • Kubernetes • CI/CD (GitHub Actions, CodePipeline)  
-- Model Registry • Automated Pipelines • Scalable Inference  
+### **Cloud, Systems & MLOps**
+- AWS (Bedrock, SageMaker, ECS, Lambda, S3)  
+- GCP (Vertex AI, Cloud Run, BigQuery, GCS)  
+- Docker • Kubernetes • CI/CD (GitHub Actions)  
+- Model Deployment • Scalable Inference • MLOps Pipelines  
 
 ### **Software Engineering**
-- Python • Flask • FastAPI  
-- PyTorch • TensorFlow • LangChain  
-- REST APIs • Microservices • Feature Engineering  
-- Containerization • Data Pipelines  
+- Python • FastAPI • Flask  
+- PyTorch • TensorFlow • HuggingFace • LangChain  
+- Microservices • REST APIs • Data Pipelines  
 
 ---
 
-## 🩻 Key Projects
+## 💼 Selected Projects
 
-### **1. Unosecur – MCP RBAC Gateway for AI Agents**
-- Secure gateway enforcing RBAC and policy-driven access  
-- Authentication, session management, and compliance auditing  
-- Least-privilege access for AI agents interacting with MCP servers  
+### 🔹 MCP Gateway for AI Agents
+Designed a **secure control plane for agent–tool interactions**, enabling RBAC, policy enforcement, and governed execution across MCP clients, agents, and tool servers.
 
-### **2. Cloud-Based MRIQC + FastSurfer Neuroimaging Pipeline**
-- Cloud-native MRI processing using AWS Batch + GPU  
-- Achieved **60% faster** FastSurfer inference with reproducible workflows  
-- Automated volumetrics for Alzheimer’s & dementia studies  
-- Modular GPU/CPU orchestration and CI/CD pipelines  
+### 🔹 Neuroimaging Pipeline (MRIQC + FastSurfer)
+Built a **cloud-native MRI processing pipeline** with AWS Batch + GPU orchestration, achieving ~60% faster inference and reproducible clinical workflows.
 
-### **3. Agentic Cybersecurity Copilot (Gemini + RAG)**
-- Multi-agent system for IAM anomaly detection & threat analysis  
-- Automated compliance reporting with privacy-preserving reasoning  
-- Domain-secure RAG + policy-aligned agent workflows  
+### 🔹 Agentic Cybersecurity Copilot
+Developed a **multi-agent AI system** for threat analysis and compliance, combining domain-secure RAG with policy-aligned reasoning workflows.
 
-### **4. IVF Embryo Gardner Scoring System**
-- Multi-head DenseNet for structured embryo scoring (ICM, TE, expansion)  
-- Reduced subjectivity & improved clinical interpretability  
+### 🔹 IVF Embryo Scoring System
+Implemented a **multi-head deep learning model** (DenseNet) for structured embryo grading, improving clinical consistency and interpretability.
 
-### **5. Lung Opacity Segmentation on CXR**
-- Attention-guided U-Net + ResNet101  
-- Interpretable segmentation masks for pneumonia detection  
-
-### **6. Chest X-Ray Disease Classifier**
-- Multi-label CNN for detecting 5 thoracic conditions  
-- Strong performance via transfer learning & augmentation  
-
-### **7. Industrial Intrusion Detection (CV-based)**
-- Real-time video surveillance using Flask + MySQL  
-- Automated alerting system for industrial safety  
+### 🔹 Lung Opacity Segmentation (CXR)
+Built an **attention-based U-Net model** for interpretable pneumonia detection from chest X-rays.
 
 ---
 
 ## 🎖️ Achievements
-- 🏆 **Top 2% (Rank 16)** — Kaggle Brain Tumor Radiogenomic Classification  
-- 📄 **IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*  
+- 🏆 Top 2% — Kaggle Brain Tumor Radiogenomic Classification  
+- 📄 IEEE Publication — *Electrical Field Distortion Around Man-Made Objects*  
 
 ---
 
@@ -94,8 +74,8 @@ I’m especially interested in **clinical and healthcare AI**—including MRI an
 ---
 
 ## 📬 Contact
-- **LinkedIn:** https://linkedin.com/in/firdowsrahaman  
-- **Twitter:** https://twitter.com/FirdowsRahaman  
+- LinkedIn: https://linkedin.com/in/firdowsrahaman  
+- Twitter: https://twitter.com/FirdowsRahaman  
 
 ---
 
@@ -104,4 +84,4 @@ I’m especially interested in **clinical and healthcare AI**—including MRI an
 
 ---
 
-Let’s build something meaningful and impactful. 🚀
+🚀 Building scalable, reliable, and governed AI systems for real-world impact.

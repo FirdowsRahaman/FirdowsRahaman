@@ -1,87 +1,79 @@
-# 👋 Hi, I'm Firdows
+# 👋 Hi, I'm Firdows Rahaman
 
-AI/ML Tech Lead building **production-grade GenAI and agentic systems** across cloud platforms.
+<p align="left">
+  <a href="https://linkedin.com/in/firdowsrahaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/FirdowsRahaman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
 
-I work at the intersection of **AI, distributed systems, and cloud architecture**, designing scalable solutions powered by **LLMs, RAG pipelines, and multi-agent workflows**. My focus is on building **reliable, governed, and enterprise-ready AI systems** that deliver real-world impact.
+AI/ML Tech Lead specializing in **production-grade Generative AI, multi-agent orchestration, and cloud-native distributed systems**. 
 
-My experience spans **computer vision, NLP, multimodal AI, and healthcare systems**, with a strong emphasis on **production deployment, system design, and cost-efficient scalability**.
+I design and build secure, governed, and enterprise-ready AI systems that scale. My expertise spans building low-latency LLM & RAG pipelines, custom agent gateways (using MCP and ADK), and automated MLOps pipelines across AWS and GCP.
 
 ---
 
 ## 🌟 What I Do
 
-- 🧠 **AI/ML Engineering:** LLMs, RAG, multimodal systems, production ML  
-- 🤖 **Agentic AI Systems:** MCP-based multi-agent orchestration, ADK tool-use workflows  
-- ☁️ **Cloud & Architecture:** AWS, GCP, Bedrock, Vertex AI, scalable AI platforms  
-- 🧬 **Healthcare AI:** MRI pipelines, radiology systems, clinical ML deployment  
-- 🔐 **AI Governance:** RBAC, policy-driven control planes, observable agent execution  
+* **🧠 Enterprise AI Engineering:** Scalable RAG, LLM orchestration, and production-grade multimodal systems.
+* **🤖 Agentic Workflows:** Multi-agent system design, Model Context Protocol (MCP) implementations, and ADK tool-use.
+* **☁️ Cloud Architecture & MLOps:** Cost-efficient GPU/CPU batch inference, IaC (Terraform/CDK), and automated CI/CD retraining.
+* **🧬 Healthcare AI:** Deep learning models for medical imaging, radiology pipeline orchestration, and clinical deployments.
+* **🔐 Governance & Observability:** Secure agent control planes, RBAC policy enforcement, and transaction telemetry.
 
 ---
 
-## 🛠️ Core Expertise
+## 🛠️ Tech Stack & Expertise
 
-### **Agentic AI & Orchestration**
-- Agentic AI • Multi-Agent Systems • MCP • ADK • ReAct • Tool-Use Agents  
-- RAG + Agents • Workflow Planning • Tool Routing • Secure Agent Gateways  
-
-### **Machine Learning & Deep Learning**
-- Generative AI • LLMs (Llama, Gemma, GPT, Claude)  
-- Transformers • NLP • Computer Vision (YOLO, U-Net, ResNet, DenseNet)  
-- Medical Imaging • Radiomics • Multimodal Systems  
-
-### **Cloud, Systems & MLOps**
-- AWS (Bedrock, SageMaker, ECS, Lambda, S3)  
-- GCP (Vertex AI, Cloud Run, BigQuery, GCS)  
-- Docker • Kubernetes • CI/CD (GitHub Actions)  
-- Model Deployment • Scalable Inference • MLOps Pipelines  
-
-### **Software Engineering**
-- Python • FastAPI • Flask  
-- PyTorch • TensorFlow • HuggingFace • LangChain  
-- Microservices • REST APIs • Data Pipelines  
+| Area | Technologies |
+| :--- | :--- |
+| **Agentic AI** | `MCP` `ADK` `ReAct` `LangGraph` `LangChain` `Multi-Agent Orchestration` `Tool Routing` |
+| **AI / Deep Learning** | `LLMs (Claude/GPT/Llama/Gemma)` `PyTorch` `TensorFlow` `HuggingFace` `U-Net` `DenseNet` |
+| **MLOps & Infrastructure** | `AWS (SageMaker, Bedrock, Lambda, S3, ECS)` `GCP (Vertex AI, Cloud Run)` `Terraform` `CDK` |
+| **Backend & Platforms** | `Python` `FastAPI` `Flask` `Docker` `Kubernetes` `Microservices` `GitHub Actions` |
 
 ---
 
 ## 💼 Selected Projects
 
-### 🔹 MCP Gateway for AI Agents
-Designed a **secure control plane for agent–tool interactions**, enabling RBAC, policy enforcement, and governed execution across MCP clients, agents, and tool servers.
+### 📊 Multi-Agent Enterprise Data Platform
+> **Collaborative AI Agents for Secure Data Analytics**  
+> Built a collaborative multi-agent platform for enterprise data intelligence, orchestrating specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) to securely query, validate, and analyze multi-source database systems with zero SQL-injection risk.
 
-### 🔹 Neuroimaging Pipeline (MRIQC + FastSurfer)
-Built a **cloud-native MRI processing pipeline** with AWS Batch + GPU orchestration, achieving ~60% faster inference and reproducible clinical workflows.
+### 🛡️ MCP Gateway for AI Agents
+> **Secure Control Plane for Enterprise Agents**  
+> Designed a secure control plane for agent-tool interactions, implementing role-based access control (RBAC), security policy enforcement, and observable agent transaction logging across MCP clients and servers.
 
-### 🔹 Agentic Cybersecurity Copilot
-Developed a **multi-agent AI system** for threat analysis and compliance, combining domain-secure RAG with policy-aligned reasoning workflows.
+### 🧬 Cloud-Native Neuroimaging Pipeline
+> **AWS GPU Batch Inference**  
+> Engineered a medical image processing pipeline using AWS Batch and GPU orchestration (MRIQC + FastSurfer) to automate radiology workflows, reducing processing latency by **~60%**.
 
-### 🔹 IVF Embryo Scoring System
-Implemented a **multi-head deep learning model** (DenseNet) for structured embryo grading, improving clinical consistency and interpretability.
+### 🔒 Agentic Cybersecurity Copilot
+> **Multi-Agent RAG & Policy Enforcement**  
+> Built a secure multi-agent reasoning network for automated threat intelligence and compliance analysis. Combines secure document ingestion with strict verification control loops.
 
-### 🔹 Lung Opacity Segmentation (CXR)
-Built an **attention-based U-Net model** for interpretable pneumonia detection from chest X-rays.
-
----
-
-## 🎖️ Achievements
-- 🏆 Top 2% — Kaggle Brain Tumor Radiogenomic Classification  
-- 📄 IEEE Publication — *Electrical Field Distortion Around Man-Made Objects*  
-
----
-
-## 📜 Certifications
-- AWS — Generative AI with LLMs  
-- GCP — End-to-End Machine Learning with TensorFlow  
+### 🔬 Medical Imaging & Diagnostics
+> **Deep Learning for Clinical Decision Support**  
+> * **IVF Embryo Grading:** Developed a multi-head DenseNet model for structured embryo scoring.
+> * **Lung Opacity Segmentation:** Built an attention-based U-Net model for automated pneumonia detection on CXRs.
 
 ---
 
-## 📬 Contact
-- LinkedIn: https://linkedin.com/in/firdowsrahaman  
-- Twitter: https://twitter.com/FirdowsRahaman  
+## 🎖️ Achievements & Certifications
+
+* **🏆 Top 2%** — Kaggle Brain Tumor Radiogenomic Classification Challenge
+* **📄 IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*
+* **☁️ AWS Certified** — *Generative AI with Large Language Models*
+* **☁️ GCP Certified** — *End-to-End Machine Learning with TensorFlow*
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Firdows's GitHub Stats" />
+</p>
 
 ---
 
-🚀 Building scalable, reliable, and governed AI systems for real-world impact.
+<p align="center">
+  🚀 <i>Building scalable, reliable, and governed AI systems for real-world impact.</i>
+</p>

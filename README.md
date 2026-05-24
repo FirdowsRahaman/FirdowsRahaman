@@ -61,8 +61,6 @@ I design and build secure, governed, and enterprise-ready AI systems that scale.
 
 * **🏆 Top 2%** — Kaggle Brain Tumor Radiogenomic Classification Challenge
 * **📄 IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*
-* **☁️ AWS Certified** — *Generative AI with Large Language Models*
-* **☁️ GCP Certified** — *End-to-End Machine Learning with TensorFlow*
 
 ---
 

@@ -5,13 +5,13 @@
   <a href="https://twitter.com/FirdowsRahaman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-### Enterprise AI Platform Lead & Architect
+### Enterprise AI Lead & Architect
 
 I architect and lead the development of **Enterprise AI platforms** that transform how organizations make decisions, automate operations, and unlock business intelligence.
 
 Over the past years, I've designed and delivered cloud-native AI, Machine Learning, and Generative AI solutions across **AWS and GCP**, evolving from building production ML systems to leading enterprise-scale AI platforms that combine **Agentic AI, Multi-Agent Systems, Enterprise Memory, RAG, and AI Governance**.
 
-Functioning as an **AI Platform Lead**, I drive the end-to-end lifecycle of enterprise AI initiatives, from customer discovery and solution architecture to technical leadership and production delivery. I work closely with business leaders, product teams, and engineering organizations to translate complex business challenges into scalable, secure, and measurable AI solutions.
+Functioning as an **AI Lead**, I drive the end-to-end lifecycle of enterprise AI initiatives, from customer discovery and solution architecture to technical leadership and production delivery. I work closely with business leaders, product teams, and engineering organizations to translate complex business challenges into scalable, secure, and measurable AI solutions.
 
 My recent work focuses on building **Enterprise AI Intelligence Layers** that unify Sales, Service, Finance, and enterprise knowledge into a single AI-native platform. These platforms enable conversational business intelligence, cross-functional reasoning, autonomous workflows, persistent enterprise memory, and executive decision support, moving beyond traditional dashboards toward intelligent, AI-driven enterprise operations.
 

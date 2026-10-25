@@ -5,62 +5,82 @@
   <a href="https://twitter.com/FirdowsRahaman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-AI/ML Tech Lead specializing in **production-grade Generative AI, multi-agent orchestration, and cloud-native distributed systems**. 
+### Enterprise AI Platform Lead & Architect
 
-I design and build secure, governed, and enterprise-ready AI systems that scale. My expertise spans building low-latency LLM & RAG pipelines, custom agent gateways (using MCP and ADK), and automated MLOps pipelines across AWS and GCP.
+I architect and lead the development of **Enterprise AI platforms** that transform how organizations make decisions, automate operations, and unlock business intelligence.
 
----
+Over the past years, I've designed and delivered cloud-native AI, Machine Learning, and Generative AI solutions across **AWS and GCP**, evolving from building production ML systems to leading enterprise-scale AI platforms that combine **Agentic AI, Multi-Agent Systems, Enterprise Memory, RAG, and AI Governance**.
 
-## 🌟 What I Do
+Functioning as an **AI Platform Lead**, I drive the end-to-end lifecycle of enterprise AI initiatives, from customer discovery and solution architecture to technical leadership and production delivery. I work closely with business leaders, product teams, and engineering organizations to translate complex business challenges into scalable, secure, and measurable AI solutions.
 
-* **🧠 Enterprise AI Engineering:** Scalable RAG, LLM orchestration, and production-grade multimodal systems.
-* **🤖 Agentic Workflows:** Multi-agent system design, Model Context Protocol (MCP) implementations, and ADK tool-use.
-* **☁️ Cloud Architecture & MLOps:** Cost-efficient GPU/CPU batch inference, IaC (Terraform/CDK), and automated CI/CD retraining.
-* **🧬 Healthcare AI:** Deep learning models for medical imaging, radiology pipeline orchestration, and clinical deployments.
-* **🔐 Governance & Observability:** Secure agent control planes, RBAC policy enforcement, and transaction telemetry.
+My recent work focuses on building **Enterprise AI Intelligence Layers** that unify Sales, Service, Finance, and enterprise knowledge into a single AI-native platform. These platforms enable conversational business intelligence, cross-functional reasoning, autonomous workflows, persistent enterprise memory, and executive decision support, moving beyond traditional dashboards toward intelligent, AI-driven enterprise operations.
+
+I enjoy designing systems where specialized AI agents collaborate, reason across multiple business domains, and orchestrate enterprise workflows while maintaining security, governance, and observability at scale.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🎯 Core Expertise
+
+- **Enterprise AI Architecture & Intelligence Layers**
+- **Agentic AI & Multi-Agent Systems**
+- **Large Language Models (LLMs) & Generative AI**
+- **Enterprise Memory & Retrieval-Augmented Generation (RAG)**
+- **AI Governance, Security & Model Context Protocol (MCP)**
+- **Cloud AI Architecture (AWS & GCP)**
+- **MLOps, LLMOps & Production AI Systems**
+- **Technical Leadership & Solution Architecture**
+
+---
+
+## 🛠️ Tech Stack & Platforms
 
 | Area | Technologies |
 | :--- | :--- |
-| **Agentic AI** | `MCP` `ADK` `ReAct` `LangGraph` `LangChain` `Multi-Agent Orchestration` `Tool Routing` |
-| **AI / Deep Learning** | `LLMs (Claude/GPT/Llama/Gemma)` `PyTorch` `TensorFlow` `HuggingFace` `U-Net` `DenseNet` |
-| **MLOps & Infrastructure** | `AWS (SageMaker, Bedrock, Lambda, S3, ECS)` `GCP (Vertex AI, Cloud Run)` `Terraform` `CDK` |
-| **Backend & Platforms** | `Python` `FastAPI` `Flask` `Docker` `Kubernetes` `Microservices` `GitHub Actions` |
+| **Agentic AI & Orchestration** | `MCP (Model Context Protocol)` `ADK` `ReAct` `LangGraph` `LangChain` `Multi-Agent Orchestration` `Tool Routing` |
+| **Generative AI & LLMs** | `Claude` `GPT-4o` `Llama 3` `Gemma` `DeepSeek` `PyTorch` `HuggingFace` `Transformers` `vLLM` |
+| **Enterprise Memory & RAG** | `Vector Databases` `Knowledge Graphs` `Hybrid Search` `Context Retrieval` `Semantic Caching` |
+| **Cloud AI & MLOps** | `AWS (SageMaker, Bedrock, Batch, ECS, Lambda)` `GCP (Vertex AI, Cloud Run)` `Terraform` `Docker` `Kubernetes` |
+| **Backend & Governance** | `Python` `FastAPI` `Microservices` `RBAC Policies` `Telemetry & Observability` `CI/CD` |
 
 ---
 
-## 💼 Selected Projects
+## 💼 Selected Initiatives
 
-### 📊 Multi-Agent Enterprise Data Platform
-> **Collaborative AI Agents for Secure Data Analytics**  
-> Built a collaborative multi-agent platform for enterprise data intelligence, orchestrating specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) to securely query, validate, and analyze multi-source database systems with zero SQL-injection risk.
+### 📊 Enterprise AI Intelligence Layer & Multi-Agent Platform
+> **Unified Cross-Functional Reasoning & Enterprise Memory**  
+> Architected a collaborative multi-agent platform for enterprise intelligence, unifying Sales, Service, and Finance domains. Orchestrates specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) to securely query, validate, and analyze multi-source enterprise data with zero SQL-injection risk and persistent memory.
 
-### 🛡️ MCP Gateway for AI Agents
-> **Secure Control Plane for Enterprise Agents**  
-> Designed a secure control plane for agent-tool interactions, implementing role-based access control (RBAC), security policy enforcement, and observable agent transaction logging across MCP clients and servers.
+### 🛡️ Enterprise MCP Gateway & AI Governance Control Plane
+> **Secure Control Plane for Autonomous Agents**  
+> Designed an enterprise-grade secure control plane for agent-tool interactions, implementing role-based access control (RBAC), Model Context Protocol (MCP) policy enforcement, transaction telemetry, and guardrails to prevent agent hallucination and data leakage.
 
 ### 🧬 Cloud-Native Neuroimaging Pipeline
 > **AWS GPU Batch Inference**  
 > Engineered a medical image processing pipeline using AWS Batch and GPU orchestration (MRIQC + FastSurfer) to automate radiology workflows, reducing processing latency by **~60%**.
 
 ### 🔒 Agentic Cybersecurity Copilot
-> **Multi-Agent RAG & Policy Enforcement**  
-> Built a secure multi-agent reasoning network for automated threat intelligence and compliance analysis. Combines secure document ingestion with strict verification control loops.
+> **Multi-Agent Threat Intelligence & Compliance**  
+> Built a secure multi-agent reasoning network for automated threat intelligence and compliance analysis, combining secure document ingestion with strict multi-agent verification control loops.
 
-### 🔬 Medical Imaging & Diagnostics
+### 🔬 Medical Imaging & Clinical Diagnostics
 > **Deep Learning for Clinical Decision Support**  
 > * **IVF Embryo Grading:** Developed a multi-head DenseNet model for structured embryo scoring.
 > * **Lung Opacity Segmentation:** Built an attention-based U-Net model for automated pneumonia detection on CXRs.
 
 ---
 
-## 🎖️ Achievements & Certifications
+## 💡 Leadership & Philosophy
 
-* **🏆 Top 2%** — Kaggle Brain Tumor Radiogenomic Classification Challenge
-* **📄 IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*
+Beyond technology, I'm passionate about building high-performing engineering teams, mentoring engineers, collaborating with cross-functional stakeholders, and delivering AI solutions that create measurable business value. 
+
+I believe the future of enterprise software lies in AI-native platforms that don't just answer questions—they reason, learn, and help organizations make better decisions.
+
+---
+
+## 🎖️ Achievements & Publications
+
+* 🏆 **Top 2%** — Kaggle Brain Tumor Radiogenomic Classification Challenge
+* 📄 **IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*
 
 ---
 
@@ -73,5 +93,5 @@ I design and build secure, governed, and enterprise-ready AI systems that scale.
 ---
 
 <p align="center">
-  🚀 <i>Building scalable, reliable, and governed AI systems for real-world impact.</i>
+  🚀 <i>Building scalable, reliable, and governed enterprise AI systems for real-world impact.</i>
 </p>

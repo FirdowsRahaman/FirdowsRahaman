@@ -104,7 +104,7 @@ Navigating complex regulatory environments is central to architecting enterprise
 > Universal directory indexing standout open-source repositories, developer utilities, autonomous agents, and self-hosted tools across modern engineering domains.
 
 ### <img src="assets/icons/initiative-ivf.svg" width="20" height="20" align="absmiddle" /> Clinical IVF Embryo Assessment & Reproductive AI Platform
-> **Computer Vision, Time-Lapse Embryo Kinetics & Clinical Genetics** • Clinical Embryology Diagnostics  
+> **Computer Vision, Time-Lapse Embryo Kinetics & Clinical Genetics** • [`clinical-ivf-morphokinetics-ai`](https://github.com/FirdowsRahaman/clinical-ivf-morphokinetics-ai)  
 > Architected high-precision computer vision and deep learning pipelines for non-invasive blastocyst grading, embryo morphokinetic developmental tracking, and viability scoring for IVF clinics. Built on HIPAA- and GDPR Art. 9-compliant cloud infrastructure, integrating automated PHI de-identification and diagnostic traceability aligned with EU AI Act High-Risk medical software standards.
 
 ---

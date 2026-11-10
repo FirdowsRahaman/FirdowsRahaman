@@ -20,7 +20,7 @@ I enjoy designing systems where specialized AI agents collaborate, reason across
 
 ---
 
-## Core Expertise
+## <img src="assets/icons/target.svg" width="22" height="22" align="absmiddle" /> Core Expertise
 
 - **Enterprise AI Architecture & Intelligence Layers**
 - **Agentic AI & Multi-Agent Systems**
@@ -34,7 +34,7 @@ I enjoy designing systems where specialized AI agents collaborate, reason across
 
 ---
 
-## Global Governance & Security Architecture
+## <img src="assets/icons/security.svg" width="22" height="22" align="absmiddle" /> Global Governance & Security Architecture
 
 Navigating complex regulatory environments is central to architecting enterprise AI. I design architectures that embed compliance, privacy-preserving AI, and strict guardrails by design across multi-national regulatory landscapes:
 
@@ -49,7 +49,7 @@ Navigating complex regulatory environments is central to architecting enterprise
 
 ---
 
-## Tech Stack & Platforms
+## <img src="assets/icons/tools.svg" width="22" height="22" align="absmiddle" /> Tech Stack & Platforms
 
 | Area | Technologies |
 | :--- | :--- |
@@ -62,35 +62,35 @@ Navigating complex regulatory environments is central to architecting enterprise
 
 ---
 
-## Selected Initiatives
+## <img src="assets/icons/business.svg" width="22" height="22" align="absmiddle" /> Selected Initiatives
 
-### Enterprise AI Intelligence Layer & Multi-Agent Platform
+### <img src="assets/icons/ai.svg" width="18" height="18" align="absmiddle" /> Enterprise AI Intelligence Layer & Multi-Agent Platform
 > **Unified Cross-Functional Reasoning & Enterprise Memory** • [`agentic-workflows-masterclass`](https://github.com/FirdowsRahaman/agentic-workflows-masterclass)  
 > Architected a collaborative multi-agent platform for enterprise intelligence, unifying Sales, Service, and Finance domains. Orchestrates specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) to securely query, validate, and analyze multi-source enterprise data with zero SQL-injection risk and persistent memory.
 
-### Enterprise MCP Gateway & Multi-Jurisdictional AI Governance Plane
+### <img src="assets/icons/security.svg" width="18" height="18" align="absmiddle" /> Enterprise MCP Gateway & Multi-Jurisdictional AI Governance Plane
 > **Secure Control Plane for Autonomous Agents** • [`mcp-masterclass`](https://github.com/FirdowsRahaman/mcp-masterclass)  
 > Designed an enterprise-grade secure control plane for agent-tool interactions, implementing role-based access control (RBAC), Model Context Protocol (MCP) policy enforcement, transaction telemetry, and guardrails to prevent agent hallucination, data leakage, and regulatory non-compliance across US, EU, and South Asian operations.
 
-### Production AWS MLOps Pipeline
+### <img src="assets/icons/automation.svg" width="18" height="18" align="absmiddle" /> Production AWS MLOps Pipeline
 > **End-to-End Automated Continuous Training & IaC** • [`aws-end-to-end-mlops-pipeline`](https://github.com/FirdowsRahaman/aws-end-to-end-mlops-pipeline)  
 > Production-ready MLOps infrastructure leveraging AWS SageMaker, Lambda, and CodePipeline with Terraform/CDK for automated model retraining, automated evaluation, drift monitoring, and zero-downtime serving.
 
-### The Human Guide to the Age of AI Agents
+### <img src="assets/icons/api.svg" width="18" height="18" align="absmiddle" /> The Human Guide to the Age of AI Agents
 > **Published Book on Autonomous Systems & Human-AI Teammates** • [`From-Tool-to-Teammate`](https://github.com/FirdowsRahaman/From-Tool-to-Teammate-The-Human-Guide-to-the-Age-of-AI-Agents)  
 > A comprehensive, 104-page exploration of artificial intelligence’s greatest paradigm shift: moving from passive tools that wait for instructions to proactive, autonomous teammates that orchestrate complex goals.
 
-### The Ultimate Collection
+### <img src="assets/icons/vault.svg" width="18" height="18" align="absmiddle" /> The Ultimate Collection
 > **Curated Directory of 110+ Dev Tools & Agent Skills** • [`the-ultimate-collection`](https://github.com/FirdowsRahaman/the-ultimate-collection)  
 > Universal directory indexing standout open-source repositories, developer utilities, autonomous agents, and self-hosted tools across modern engineering domains.
 
-### Cloud-Native Neuroimaging Pipeline & Clinical Diagnostics
+### <img src="assets/icons/apps.svg" width="18" height="18" align="absmiddle" /> Cloud-Native Neuroimaging Pipeline & Clinical Diagnostics
 > **AWS GPU Batch Inference, 3D U-Net & HIPAA Compliance** • [`brain-mri-skull-stripping-3d-unet`](https://github.com/FirdowsRahaman/brain-mri-skull-stripping-3d-unet)  
 > Engineered a medical image processing pipeline using AWS Batch and GPU orchestration (MRIQC + FastSurfer) to automate radiology workflows, reducing processing latency by **~60%** while maintaining strict clinical compliance and PHI de-identification.
 
 ---
 
-## Leadership & Technical Philosophy
+## <img src="assets/icons/bulb.svg" width="22" height="22" align="absmiddle" /> Leadership & Technical Philosophy
 
 Beyond technology, I'm passionate about building high-performing global engineering teams, mentoring engineers, collaborating with international stakeholders, and delivering AI solutions that create measurable business value with uncompromising security and ethics. 
 
@@ -98,14 +98,14 @@ I believe the future of enterprise software lies in AI-native platforms that don
 
 ---
 
-## Honors & Publications
+## <img src="assets/icons/award.svg" width="22" height="22" align="absmiddle" /> Honors & Publications
 
 * **Top 2% Winner** — Kaggle Brain Tumor Radiogenomic Classification Challenge
 * **IEEE Publication** — *Electrical Field Distortion Around Man-Made Objects*
 
 ---
 
-## Engineering Activity & Analytics
+## <img src="assets/icons/chart.svg" width="22" height="22" align="absmiddle" /> Engineering Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Firdows's GitHub Stats" />

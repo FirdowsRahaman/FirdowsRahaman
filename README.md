@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/firdowsrahaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/FirdowsRahaman"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://firdows.github.io"><img src="https://img.shields.io/badge/Portfolio-firdows.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://firdowsrahaman.github.io"><img src="https://img.shields.io/badge/Portfolio-firdowsrahaman.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ### Enterprise AI Platform Lead & Architect

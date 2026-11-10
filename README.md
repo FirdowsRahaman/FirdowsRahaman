@@ -2,7 +2,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/firdowsrahaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/FirdowsRahaman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/FirdowsRahaman"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://firdows.github.io"><img src="https://img.shields.io/badge/Portfolio-firdows.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ### Enterprise AI Platform Lead & Architect
@@ -64,25 +65,28 @@ Navigating complex regulatory environments is central to architecting enterprise
 ## 💼 Selected Initiatives
 
 ### 📊 Enterprise AI Intelligence Layer & Multi-Agent Platform
-> **Unified Cross-Functional Reasoning & Enterprise Memory**  
+> **Unified Cross-Functional Reasoning & Enterprise Memory** • [`agentic-workflows-masterclass`](https://github.com/FirdowsRahaman/agentic-workflows-masterclass)  
 > Architected a collaborative multi-agent platform for enterprise intelligence, unifying Sales, Service, and Finance domains. Orchestrates specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) to securely query, validate, and analyze multi-source enterprise data with zero SQL-injection risk and persistent memory.
 
 ### 🛡️ Enterprise MCP Gateway & Multi-Jurisdictional AI Governance Plane
-> **Secure Control Plane for Autonomous Agents**  
+> **Secure Control Plane for Autonomous Agents** • [`mcp-masterclass`](https://github.com/FirdowsRahaman/mcp-masterclass)  
 > Designed an enterprise-grade secure control plane for agent-tool interactions, implementing role-based access control (RBAC), Model Context Protocol (MCP) policy enforcement, transaction telemetry, and guardrails to prevent agent hallucination, data leakage, and regulatory non-compliance across US, EU, and South Asian operations.
 
-### 🧬 Cloud-Native Neuroimaging Pipeline
-> **AWS GPU Batch Inference & HIPAA Compliance**  
+### ⚙️ Production AWS MLOps Pipeline
+> **End-to-End Automated Continuous Training & IaC** • [`aws-end-to-end-mlops-pipeline`](https://github.com/FirdowsRahaman/aws-end-to-end-mlops-pipeline)  
+> Production-ready MLOps infrastructure leveraging AWS SageMaker, Lambda, and CodePipeline with Terraform/CDK for automated model retraining, automated evaluation, drift monitoring, and zero-downtime serving.
+
+### 📖 The Human Guide to the Age of AI Agents
+> **Published Book on Autonomous Systems & Human-AI Teammates** • [`From-Tool-to-Teammate`](https://github.com/FirdowsRahaman/From-Tool-to-Teammate-The-Human-Guide-to-the-Age-of-AI-Agents)  
+> A comprehensive, 104-page exploration of artificial intelligence’s greatest paradigm shift: moving from passive tools that wait for instructions to proactive, autonomous teammates that orchestrate complex goals.
+
+### 🏛️ The Ultimate Collection
+> **Curated Directory of 110+ Dev Tools & Agent Skills** • [`the-ultimate-collection`](https://github.com/FirdowsRahaman/the-ultimate-collection)  
+> Universal directory indexing standout open-source repositories, developer utilities, autonomous agents, and self-hosted tools across modern engineering domains.
+
+### 🧬 Cloud-Native Neuroimaging Pipeline & Clinical Diagnostics
+> **AWS GPU Batch Inference, 3D U-Net & HIPAA Compliance** • [`brain-mri-skull-stripping-3d-unet`](https://github.com/FirdowsRahaman/brain-mri-skull-stripping-3d-unet)  
 > Engineered a medical image processing pipeline using AWS Batch and GPU orchestration (MRIQC + FastSurfer) to automate radiology workflows, reducing processing latency by **~60%** while maintaining strict clinical compliance and PHI de-identification.
-
-### 🔒 Agentic Cybersecurity Copilot
-> **Multi-Agent Threat Intelligence & Compliance**  
-> Built a secure multi-agent reasoning network for automated threat intelligence and compliance analysis, combining secure document ingestion with strict multi-agent verification control loops.
-
-### 🔬 Medical Imaging & Clinical Diagnostics
-> **Deep Learning for Clinical Decision Support**  
-> * **IVF Embryo Grading:** Developed a multi-head DenseNet model for structured embryo scoring.
-> * **Lung Opacity Segmentation:** Built an attention-based U-Net model for automated pneumonia detection on CXRs.
 
 ---
 
@@ -105,6 +109,7 @@ I believe the future of enterprise software lies in AI-native platforms that don
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Firdows's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdowsRahaman&layout=compact&theme=radical&hide=html" alt="Top Languages" />
 </p>
 
 ---

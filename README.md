@@ -103,9 +103,9 @@ Navigating complex regulatory environments is central to architecting enterprise
 > **Curated Directory of 110+ Dev Tools & Agent Skills** • [`the-ultimate-collection`](https://github.com/FirdowsRahaman/the-ultimate-collection)  
 > Universal directory indexing standout open-source repositories, developer utilities, autonomous agents, and self-hosted tools across modern engineering domains.
 
-### <img src="assets/icons/initiative-neuroimaging.svg" width="20" height="20" align="absmiddle" /> Cloud-Native Neuroimaging Pipeline & Clinical Diagnostics
-> **AWS GPU Batch Inference, 3D U-Net & Clinical Compliance** • [`brain-mri-skull-stripping-3d-unet`](https://github.com/FirdowsRahaman/brain-mri-skull-stripping-3d-unet)  
-> Engineered a clinical medical image processing pipeline using AWS Batch and GPU orchestration (MRIQC + FastSurfer) to automate radiology workflows, reducing processing latency by **~60%**. Designed as an EU AI Act High-Risk AI System architecture with strict GDPR Art. 9 / HIPAA PHI de-identification and radiological auditability.
+### <img src="assets/icons/initiative-ivf.svg" width="20" height="20" align="absmiddle" /> Clinical IVF Embryo Assessment & Reproductive AI Platform
+> **Computer Vision, Time-Lapse Embryo Kinetics & Clinical Genetics** • Collaboration with [Progenesis Inc](https://progenesis.com)  
+> Architected high-precision computer vision and deep learning pipelines for non-invasive blastocyst grading, embryo morphokinetic developmental tracking, and viability scoring for IVF clinics. Built on HIPAA- and GDPR Art. 9-compliant cloud infrastructure, integrating automated PHI de-identification and diagnostic traceability aligned with EU AI Act High-Risk medical software standards.
 
 ---
 

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="bookGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F43F5E"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+  <!-- Open Book Wings / Isometric Hardcover -->
+  <path d="M3 5.5 C3 4.4 3.9 3.5 5 3.5 H10.5 C11.3 3.5 12 4.2 12 5 V19 C12 18.2 11.3 17.5 10.5 17.5 H5 C3.9 17.5 3 18.4 3 19.5 V5.5 Z" fill="url(#bookGrad)" opacity="0.25"/>
+  <path d="M21 5.5 C21 4.4 20.1 3.5 19 3.5 H13.5 C12.7 3.5 12 4.2 12 5 V19 C12 18.2 12.7 17.5 13.5 17.5 H19 C20.1 17.5 21 18.4 21 19.5 V5.5 Z" fill="url(#bookGrad)" opacity="0.35"/>
+  <path d="M12 5 V19 M12 19 C11 17.8 9.5 17.2 7.5 17.2 H3 V4 C3 4 5.5 3.8 7.5 3.8 C9.5 3.8 11 4.5 12 5 C13 4.5 14.5 3.8 16.5 3.8 C18.5 3.8 21 4 21 4 V17.2 H16.5 C14.5 17.2 13 17.8 12 19 Z" stroke="url(#bookGrad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Neural Intelligence Circuit rising from right page -->
+  <path d="M14.5 7.5 H18.5" stroke="url(#bookGrad)" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M14.5 10.5 H18.5" stroke="url(#bookGrad)" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M14.5 13.5 H17" stroke="url(#bookGrad)" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Spark of autonomous agent on left page -->
+  <circle cx="7.5" cy="8.5" r="1.4" fill="#F43F5E"/>
+  <line x1="7.5" y1="10.2" x2="7.5" y2="13.5" stroke="#F43F5E" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="7.5" cy="13.5" r="0.9" fill="#A855F7"/>
+  <!-- Bookmark ribbon in center -->
+  <path d="M12 5 V10 L13 9 L14 10 V5" fill="#F43F5E"/>
+</svg>

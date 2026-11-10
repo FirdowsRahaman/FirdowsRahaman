@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="initHdrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer glowing diamond -->
+  <rect x="3.5" y="3.5" width="17" height="17" rx="3.5" transform="rotate(45 12 12)" fill="url(#initHdrGrad)" opacity="0.2"/>
+  <rect x="4.5" y="4.5" width="15" height="15" rx="3" transform="rotate(45 12 12)" stroke="url(#initHdrGrad)" stroke-width="1.2" fill="none"/>
+  <!-- Central 4-point compass/star -->
+  <path d="M12 2.5 L14.2 9.8 L21.5 12 L14.2 14.2 L12 21.5 L9.8 14.2 L2.5 12 L9.8 9.8 Z" fill="url(#initHdrGrad)"/>
+  <!-- Inner core star -->
+  <circle cx="12" cy="12" r="2.2" fill="#FFFFFF"/>
+</svg>

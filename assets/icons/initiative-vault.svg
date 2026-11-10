@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="vaultGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <!-- Geometric Vault / Cube Portal -->
+  <polygon points="12,2 21,7.2 21,16.8 12,22 3,16.8 3,7.2" fill="url(#vaultGrad)" opacity="0.15"/>
+  <polygon points="12,2 21,7.2 21,16.8 12,22 3,16.8 3,7.2" stroke="url(#vaultGrad)" stroke-width="1.5" stroke-linejoin="round" fill="none"/>
+  <!-- Internal cube perspective lines -->
+  <line x1="12" y1="12" x2="21" y2="7.2" stroke="url(#vaultGrad)" stroke-width="1.2"/>
+  <line x1="12" y1="12" x2="3" y2="7.2" stroke="url(#vaultGrad)" stroke-width="1.2"/>
+  <line x1="12" y1="12" x2="12" y2="22" stroke="url(#vaultGrad)" stroke-width="1.2"/>
+  <!-- Radiant Core / Vault Diamond Gem -->
+  <polygon points="12,7.5 15.5,12 12,16.5 8.5,12" fill="url(#vaultGrad)"/>
+  <circle cx="12" cy="12" r="1.4" fill="#FFFFFF"/>
+</svg>

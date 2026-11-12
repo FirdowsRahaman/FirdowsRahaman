@@ -96,7 +96,7 @@ Navigating complex regulatory environments is central to architecting enterprise
 > Production-ready MLOps infrastructure leveraging AWS SageMaker, Lambda, and CodePipeline with Terraform/CDK for automated model retraining, automated evaluation, drift monitoring, and zero-downtime serving.
 
 ### <img src="assets/icons/initiative-book.svg" width="20" height="20" align="absmiddle" /> The Human Guide to the Age of AI Agents
-> **Published Book on Autonomous Systems & Human-AI Teammates** • [`From-Tool-to-Teammate`](https://github.com/FirdowsRahaman/From-Tool-to-Teammate-The-Human-Guide-to-the-Age-of-AI-Agents)  
+> **Published Book on Autonomous Systems & Human-AI Teammates** • [`From-Tool-to-Teammate`](https://github.com/FirdowsRahaman/from-tool-to-teammate)  
 > A comprehensive, 104-page exploration of artificial intelligence’s greatest paradigm shift: moving from passive tools that wait for instructions to proactive, autonomous teammates that orchestrate complex goals.
 
 ### <img src="assets/icons/initiative-vault.svg" width="20" height="20" align="absmiddle" /> The Ultimate Collection

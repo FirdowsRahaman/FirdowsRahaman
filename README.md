@@ -124,15 +124,6 @@ I believe the future of enterprise software lies in AI-native platforms that don
 
 ---
 
-## <img src="assets/icons/chart.svg" width="22" height="22" align="absmiddle" /> Engineering Activity & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirdowsRahaman&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Firdows's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdowsRahaman&layout=compact&theme=radical&hide=html" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>Architecting scalable, reliable, and governed enterprise AI systems for real-world impact.</i>
 </p>

@@ -117,6 +117,22 @@ I believe the future of enterprise software lies in AI-native platforms that don
 
 ---
 
+## <img src="assets/icons/award.svg" width="22" height="22" align="absmiddle" /> Certifications
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="assets/badges/claude-certified-architect.png" width="110" alt="Claude Certified Architect — Professional" />
+    </td>
+    <td>
+      <strong>Claude Certified Architect — Professional</strong><br />
+      <em>Anthropic</em>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## <img src="assets/icons/award.svg" width="22" height="22" align="absmiddle" /> Honors & Publications
 
 * **Top 2% Winner** — Kaggle Brain Tumor Radiogenomic Classification Challenge

@@ -122,11 +122,14 @@ I believe the future of enterprise software lies in AI-native platforms that don
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="assets/badges/claude-certified-architect.png" width="110" alt="Claude Certified Architect — Professional" />
+      <a href="https://www.credly.com/badges/ee91157b-03b8-45e2-8db8-e614bd5ec81d">
+        <img src="assets/badges/claude-certified-architect.png" width="110" alt="Claude Certified Architect - Professional" />
+      </a>
     </td>
     <td>
-      <strong>Claude Certified Architect — Professional</strong><br />
-      <em>Anthropic</em>
+      <strong>Claude Certified Architect - Professional</strong><br />
+      <em>Anthropic</em> • Issued Sep 29, 2026 · Expires Sep 29, 2027<br />
+      <a href="https://www.credly.com/badges/ee91157b-03b8-45e2-8db8-e614bd5ec81d">Verify Credential on Credly</a>
     </td>
   </tr>
 </table>

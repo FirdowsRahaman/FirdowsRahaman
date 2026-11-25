@@ -84,16 +84,16 @@ Navigating complex regulatory environments is central to architecting enterprise
 ## <img src="assets/icons/initiative-header.svg" width="22" height="22" align="absmiddle" /> Selected Initiatives
 
 ### <img src="assets/icons/initiative-multi-agent.svg" width="20" height="20" align="absmiddle" /> Enterprise AI Intelligence Layer & Multi-Agent Platform
-> **Unified Cross-Functional Reasoning & Enterprise Memory** • [`agentic-workflows-masterclass`](https://github.com/FirdowsRahaman/agentic-workflows-masterclass)  
-> Architected a collaborative multi-agent platform for enterprise intelligence, unifying Sales, Service, and Finance domains across EMEA and APAC operations. Orchestrates specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) to securely query, validate, and analyze multi-source enterprise data with zero SQL-injection risk, persistent memory, and audit-ready traceability.
+> **Unified Cross-Functional Reasoning & Enterprise Memory** • [`production-agentic-workflows`](https://github.com/FirdowsRahaman/production-agentic-workflows)  
+> Architected a collaborative multi-agent platform for enterprise intelligence, unifying Sales, Service, and Finance domains across EMEA and APAC operations. Orchestrates specialized agents (SQL Planner, Executioner, Data Critic, and Visualizer) using LangGraph, Google ADK, and PydanticAI with zero SQL-injection risk, persistent memory, and audit-ready traceability.
 
 ### <img src="assets/icons/initiative-mcp-gateway.svg" width="20" height="20" align="absmiddle" /> Enterprise MCP Gateway & Multi-Jurisdictional AI Governance Plane
 > **Secure Control Plane for Autonomous Agents** • [`mcp-masterclass`](https://github.com/FirdowsRahaman/mcp-masterclass)  
 > Designed an enterprise-grade secure control plane for agent-tool interactions, implementing role-based access control (RBAC), Model Context Protocol (MCP) policy enforcement, transaction telemetry, and guardrails to prevent agent hallucination, data leakage, and regulatory non-compliance across EMEA, APAC, and US operations (aligned with EU AI Act Art. 14 & 15).
 
-### <img src="assets/icons/initiative-mlops-pipeline.svg" width="20" height="20" align="absmiddle" /> Production AWS MLOps Pipeline
-> **End-to-End Automated Continuous Training & IaC** • [`aws-end-to-end-mlops-pipeline`](https://github.com/FirdowsRahaman/aws-end-to-end-mlops-pipeline)  
-> Production-ready MLOps infrastructure leveraging AWS SageMaker, Lambda, and CodePipeline with Terraform/CDK for automated model retraining, automated evaluation, drift monitoring, and zero-downtime serving.
+### <img src="assets/icons/security.svg" width="20" height="20" align="absmiddle" /> Sovereign AI Gateway & EU AI Act Compliance Plane
+> **Zero-Egress Inference, GDPR PII Scrubbing & Audit Telemetry** • [`sovereign-ai-gateway`](https://github.com/FirdowsRahaman/sovereign-ai-gateway)  
+> Production FastAPI gateway enforcing GDPR Article 25 PII pseudonymization, EU AI Act Article 12 immutable audit logging, and sovereign model routing with automated security and compliance CI.
 
 ### <img src="assets/icons/initiative-book.svg" width="20" height="20" align="absmiddle" /> The Human Guide to the Age of AI Agents
 > **Published Book on Autonomous Systems & Human-AI Teammates** • [`From-Tool-to-Teammate`](https://github.com/FirdowsRahaman/from-tool-to-teammate)  
